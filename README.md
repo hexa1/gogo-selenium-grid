@@ -24,6 +24,7 @@ Additional Chrome drivers can be found here: <http://chromedriver.storage.google
 
 - Chrome Driver wiki: <https://code.google.com/p/selenium/wiki/ChromeDriver>
 - Chrome Driver capabilities: <https://sites.google.com/a/chromium.org/chromedriver/capabilities>
+- Selenium Server standalone download: <http://www.seleniumhq.org/download/>
 
 ### TODO
 
